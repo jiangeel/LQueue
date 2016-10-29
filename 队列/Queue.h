@@ -3,7 +3,7 @@
 #include "AdditionProblem.h"
 #ifndef QUEUE
 #define QUEUE
-
+//
 const int QUEUE_CAPACITY = 128;
 typedef AdditionProblem QueueElement;
 
